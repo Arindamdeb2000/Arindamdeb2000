@@ -1,8 +1,10 @@
+
+
 ✔ About Me
 
 I am in a perpetual Beta mode, a "wannabe" Geek, a Social Media and Communication addict.
 
-Also, a recruitment and sourcing specialist, having around 6+ years of enriched experience in hiring Mechanical, IT & Non-IT professionals across the globe. I am a Portal & Social Media sourcing expert currently hiring for diversified roles in and around different cities of Europe & APJ.
+Also, a recruitment and sourcing specialist, having around 7 years of enriched experience in hiring Mechanical, IT & Non-IT professionals across the globe. I am a Portal & Social Media sourcing expert currently hiring for diversified roles in and around different cities of Europe & APJ.
 
 I do have proven experience in recruiting IT talent, availing of job boards and vendor sourcing partnerships with top Startups, Midsize Product Organizations, Multibillion Conglomerates.
 
