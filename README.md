@@ -12,6 +12,6 @@ I handle the recruitment cycle for Middle, Senior and Top Management levels.
 
 ✔ What do I do?
 
-I convert People to Candidates which means I work with internal recruiters and on their behalf, I identify, contact and engage with highly qualified professionals. My goal is to understand these people’s motivations and just propose them to be introduced to the recruiter/HR person. Mainly for hard-to-fill positions, but I don’t see myself as a headhunter though it's there in my profile subject line, I’m not trying to “hunt” you, you’re not a pray, we’re all humans so let’s just get to know each other.
+I convert People to Candidates which means I work with internal recruiters and on their behalf, I identify, contact and engage with highly qualified professionals. My goal is to understand these people’s motivations and just propose them to be introduced to the recruiter/HR person. Mainly for hard-to-fill positions.
 
 ✪ Changing the way the world see's Talent Sourcing 
