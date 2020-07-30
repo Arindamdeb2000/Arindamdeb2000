@@ -1,4 +1,5 @@
-
+Global Talent Sourcer & Research Specialist
+I do hire for ✪ France ✪ Poland ✪ Japan ✪ Australia ✪ Singapore ✪ Netherlands ✪ Germany
 
 ✔ About Me
 
