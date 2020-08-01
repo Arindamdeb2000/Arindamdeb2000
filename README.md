@@ -6,7 +6,7 @@ I am a Global Talent Sourcer & Research Specialist
 
 I do hire great people for ✪ France ✪ Poland ✪ Japan ✪ Australia ✪ Singapore ✪ Netherlands ✪ Germany
 
-I a #Sourcerwholikescode
+I am a #Sourcerwholikescode
 
 ✔ About Me
 
