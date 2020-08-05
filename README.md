@@ -4,7 +4,7 @@
 
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Arindamdeb2000&show_icons=true" alt="Arindamdeb2000" /> </p>
-## Find me around the web 🌎:align="left" width="150" height="150" 
+<h2 align="left">Find me around the web 🌎</h2>
 
 <p align="left">Social Media 🔗:
 <a href="https://twitter.com/Arindamdeb3000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
