@@ -25,7 +25,7 @@ I convert People to Candidates which means I work with internal recruiters and o
 ✪ Changing the way the world see's Talent Sourcing 
 <h2 align="left">Hi 👋🏻, I'm Arindam</h2>
 
-<img src="https://pin.it/7xns3P5">
+<img src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.zycus.com%2Fcampaign%2FPOP2015%2Findexnew.php%3Fsource&psig=AOvVaw2xzMuyeCp56590BiknNOi1&ust=1596724416736000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPD6spCkhOsCFQAAAAAdAAAAABAJ>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sourcingdenis&show_icons=true" alt="sourcingdenis" /> </p>
 
