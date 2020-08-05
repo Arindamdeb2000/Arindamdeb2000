@@ -25,14 +25,12 @@ I convert People to Candidates which means I work with internal recruiters and o
 ✪ Changing the way the world see's Talent Sourcing 
 <h2 align="left">Hi 👋🏻, I'm Arindam</h2>
 
-<img src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.zycus.com%2Fcampaign%2FPOP2015%2Findexnew.php%3Fsource&psig=AOvVaw2xzMuyeCp56590BiknNOi1&ust=1596724416736000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPD6spCkhOsCFQAAAAAdAAAAABAJ>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sourcingdenis&show_icons=true" alt="sourcingdenis" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Arindamdeb2000&show_icons=true" alt="Arindamdeb2000" /> </p>
 
 <p align="left">Social Media 🔗:
-<a href="https://twitter.com/sourcingdenis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sourcingdenis" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/sourcingdenis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sourcingdenis" height="20" width="20" /></a>
-<a href="https://fb.com/sourcingdenis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sourcingdenis" height="20" width="20" /></a>
-<a href="https://instagram.com/sourcingdenis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sourcingdenis" height="20" width="20" /></a>
-<a href="https://medium.com/@sourcingdenis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sourcingdenis" height="20" width="20" /></a>
+<a href="https://twitter.com/Arindamdeb3000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/arindamdeb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
+<a href="https://fb.com/Arindamdeb3000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
+<a href="https://instagram.com/Arindamdeb3000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Arindamdeb2000" height="20" width="20" /></a>
 </p>
