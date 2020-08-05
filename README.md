@@ -1,6 +1,6 @@
 
 
-<h2 align="left">Hi 👋🏻, I'm Arindam ! You can also call me ARI</h2>
+<h2 align="left">Hi 👋🏻, I'm Arindam ! You can also call me ARI !</h2>
 
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Arindamdeb2000&show_icons=true" alt="Arindamdeb2000" /> </p>
