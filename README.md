@@ -40,6 +40,10 @@ I convert People to Candidates which means I work with internal recruiters and o
 
 
 
+
+
+
+
 <h2 align="left">Disclaimer</h2> 
 
 My views and codes here are majorly created/stored to bring that fun element while work. It has no association with the services i provide to my current company.  
