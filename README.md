@@ -37,3 +37,6 @@ I handle the recruitment cycle for Middle, Senior and Top Management levels.
 I convert People to Candidates which means I work with internal recruiters and on their behalf, I identify, contact and engage with highly qualified professionals. My goal is to understand these people’s motivations and just propose them to be introduced to the recruiter/HR person. Mainly for hard-to-fill positions.
 
 <h2 align="left">✪ Changing the way the world see's Talent Sourcing</h2> 
+
+
+<h2 align="left">Disclaimer</h2> :My views and codes here are majorly created/stored to bring that fun element while work. It has no association with the services i provide to my current company.  
