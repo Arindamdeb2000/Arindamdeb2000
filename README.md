@@ -1,4 +1,4 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="undefined" width="500" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="centre" height="undefined" width="500" />
 </div>
 
 <h2 align="left">I'm Arindam ! You can also call me ARI !</h2>
