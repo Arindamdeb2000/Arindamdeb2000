@@ -1,6 +1,9 @@
 
+<div align="center">
+<img src="https://Arindamdeb2000.github.io/static/images/greetings.gif" align="center" height="undefined" width="600" />
+</div>
 
-<h2 align="left">Hi 👋🏻, I'm Arindam ! You can also call me ARI !</h2>
+<div align="center">I'm Arindam ! You can also call me ARI !</h2>
 
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Arindamdeb2000&show_icons=true" alt="Arindamdeb2000" /> </p>
