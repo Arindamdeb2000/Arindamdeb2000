@@ -7,7 +7,7 @@
 <h2 align="left">Find me around the web 🌎</h2>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=arindamdeb2000&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=arindamdeb2000&&style=flat-square" align="left" />
 </div>
 
 <br />
