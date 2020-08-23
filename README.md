@@ -12,7 +12,7 @@ I am a Global Talent Sourcer & Research Specialist
 
 
 
-<h2 align="left">✪ France ✪ Poland ✪ Japan ✪ Australia ✪ Singapore ✪ Netherlands ✪ Germany</h2> 
+I hire talented technical folks for: <h2 align="left">✪ France ✪ Poland ✪ Japan ✪ Australia ✪ Singapore ✪ Netherlands ✪ Germany</h2> 
 
 <h2 align="left">I am a #Sourcerwholikescoding</h2>
 
