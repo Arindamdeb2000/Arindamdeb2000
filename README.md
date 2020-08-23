@@ -1,7 +1,7 @@
-<img src="https://cdn.dribbble.com/users/1418633/screenshots/5106121/hi-dribbble-studiotale.gif" align="left" height="undefined" width="700" />
+<img src="https://cdn.dribbble.com/users/1418633/screenshots/5106121/hi-dribbble-studiotale.gif" align="centre" height="undefined" width="700" />
 </div>
 <h2 align="left">I'm Arindam ! You can also call me ARI !</h2>
-<img src="https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif" align="centre" height="undefined" width="700" />
+<img src="https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif" align="centre" height="undefined" width="1000" />
 </div>
 
 <div align="centre">
