@@ -13,7 +13,7 @@ I am a Global Talent Sourcer & Research Specialist
 
 I hire talented technical folks for: <h2 align="left">✪ France ✪ Poland ✪ Japan ✪ Australia ✪ Singapore ✪ Netherlands ✪ Germany</h2> 
 
-<h2 align="left">I am a #Sourcerwholikescoding</h2>
+<h2 align="left">I am also a #Sourcerwholikescoding</h2>
 <img src="https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif" align="centre" height="undefined" width="1000" />
 </div>
 
