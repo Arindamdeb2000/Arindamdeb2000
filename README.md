@@ -51,4 +51,4 @@ I convert People to Candidates which means I work with internal recruiters and o
 
 <h2 align="left">Disclaimer</h2> 
 
-My views and codes here are majorly created/stored to bring that fun element while work. It has no association with the services i provide to my current company.  
+My views and codes here are majorly created/stored/forked to bring that fun element while work. It has no association with the services i provide to my current company.I also appriciate the help of all source coders,who have helped me to try and experiment somthing new in context of sourcing /creating tools. Apologies, if i missed to give you credits.It is un-intentional. You can always ping me at Arindamdeb3000@gmail.com and i will  make sure to give you the right credit - whever you deserve.   
