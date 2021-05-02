@@ -33,7 +33,7 @@ I hire talented technical folks from: <h2 align="left">✪ France ✪ Poland ✪
 
 ✔ About Me
 
-I am in a perpetual Beta mode, a "wannabe" Geek, a Social Media and Communication addict.
+I am in a perpetual Beta mode, a "wannabe" Geek, a Social Media and a Communication addict.
 
 Also, a recruitment and sourcing specialist, having around 7 years of enriched experience in hiring Mechanical, IT & Non-IT professionals across the globe. I am a Portal & Social Media sourcing expert currently hiring for diversified roles in and around different cities of Europe & APJ.
 
