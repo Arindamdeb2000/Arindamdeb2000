@@ -11,7 +11,7 @@ I am a Global Talent Sourcer & Research Specialist
 
 
 
-I hire talented technical folks from: <h2 align="left">✪ Europe ✪ APJ ✪ India ✪ Middle East ✪ KSA</h2> 
+I hire talented technical folks from: <h2 align="left">✪ Europe  ✪ APJ  ✪ India  ✪ Middle East  ✪ KSA</h2> 
 
 <h2 align="centre">👨🏾‍💻 I am also a #Sourcerwholikescoding</h2>
 <img src="https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif" align="centre" height="undefined" width="1000" />
